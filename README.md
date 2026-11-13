@@ -324,5 +324,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
   <b>Developed by Ayush Kalathiya</b><br>
-  <i>Advanced Digital Image Processing & Forensics · 2024</i>
+  <i>Advanced Digital Image Processing & Forensics · 2026</i>
 </div>

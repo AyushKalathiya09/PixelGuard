@@ -1,0 +1,9 @@
+filename,true_label,predicted,verdict,tampered_ratio,num_matches,px_precision,px_recall,px_f1,px_iou
+bricks.jpg,0,0,AUTHENTIC,0.0007,4,,,,
+scene_a.jpg,0,0,AUTHENTIC,0.072,0,,,,
+scene_b.jpg,0,0,AUTHENTIC,0.0141,0,,,,
+textured_scene.jpg,0,0,AUTHENTIC,0.0,0,,,,
+bricks_copymove.jpg,1,1,TAMPERED,0.0805,123,1.0,0.6363,0.7777,0.6363
+copymove_test.jpg,1,1,TAMPERED,0.0429,22,1.0,0.3609,0.5304,0.3609
+tampered_a.jpg,1,1,TAMPERED,0.077,0,0.0302,0.0277,0.0289,0.0147
+tampered_b.jpg,1,1,TAMPERED,0.2399,113,0.5072,0.5706,0.537,0.3671

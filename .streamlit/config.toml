@@ -1,0 +1,10 @@
+[theme]
+# Cream (40%) + Deep Teal (40%) + Coral (20%)
+primaryColor = "#FF6F5E"
+backgroundColor = "#F1EEE8"
+secondaryBackgroundColor = "#FAF8F5"
+textColor = "#0E4F4A"
+font = "sans serif"
+
+[server]
+maxUploadSize = 200
